@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780064462823",
+    "project_id": "otp-verify-ca66c",
+    "storage_bucket": "otp-verify-ca66c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780064462823:android:e798f4e8da69a0a1ce8f42",
+        "android_client_info": {
+          "package_name": "com.example.smartwatermeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780064462823-bl14p3sc92l75bnc290pibn44upvoigm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartwatermeter",
+            "certificate_hash": "53d7466dd03601604c1d7a39d8975362b2290a5c"
+          }
+        },
+        {
+          "client_id": "780064462823-mfdkolmram4ci42hg8vb3ca8sv0i04ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWZrROWq2G_OM-AANtBk2CLx0pSr8UjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780064462823-mfdkolmram4ci42hg8vb3ca8sv0i04ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

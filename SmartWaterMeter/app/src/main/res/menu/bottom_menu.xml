@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_quota"/>
+
+    <item
+        android:id="@+id/billsFragment"
+        android:title="Bills"
+        android:icon="@drawable/ic_bargraph"/>
+
+    <item
+        android:id="@+id/optimizationFragment"
+        android:title="Game and Optimizations"
+        android:icon="@drawable/ic_monitor"/>
+
+    <item
+        android:id="@+id/meterOpenCloseFragment"
+        android:title="Power"
+        android:icon="@drawable/ic_power"/>
+
+</menu>

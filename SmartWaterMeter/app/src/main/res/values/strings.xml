@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartWaterMeter</string>
+    <string-array name="spinner">
+        <item>Default</item>
+        <item>Daily</item>
+        <item>Monthly</item>
+    </string-array>
+    <string-array name="spinner2">
+        <item>WWW</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">Average water consumption of a family of 4 is 500 to 800 liters per day. You have slightly exceeded this amount. You can visit our website <u><b>wwandw.com</b></u> to examine our simple but effective selection methods and apply them in your life in order to eliminate the water shortage that has increased recently. You will soon receive a notification of our special plan for you :)</string>
+</resources>
